@@ -1,6 +1,5 @@
 print "hello !!"
 def hello():
 	print "hello"
-
-
-TEST BALEZE
+def merge():
+	print "nop"
